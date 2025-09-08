@@ -1,1 +1,32 @@
+# STM32CubeIDE build output
 /Debug/
+/Release/
+/build/
+/out/
+
+# Eclipse / CubeIDE workspace settings (not project-specific)
+.settings/
+.metadata/
+
+# Compiler and linker artifacts
+*.o
+*.d
+*.elf
+*.map
+*.lst
+*.bin
+*.hex
+*.srec
+*.a
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*~
+*.swp
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+desktop.ini
